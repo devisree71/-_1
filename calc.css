@@ -1,0 +1,39 @@
+.display {
+  font-size: 40px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #f5f5f5;
+  height: 70px;
+}
+
+.e {
+  width: 113px;
+  height: 55px;
+  font-size: 30px;
+  background-color: #d9d9d9;
+  border: none;
+}
+
+form {
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+
+.f {
+  width: 457px;
+  height: 60px;
+  font-size: 30px;
+}
+
+td {
+  color: rgb(9, 10, 10);
+  height: 55px;
+  width: 90px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(https://img.freepik.com/free-psd/mathematics-background-with-shapes-calculators_23-2148458891.jpg?size=626&ext=jpg);
+  background-size: cover;
+}
